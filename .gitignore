@@ -31,4 +31,4 @@ secrets/signing-key
 lib/
 build/
 */build/
-
+.history
