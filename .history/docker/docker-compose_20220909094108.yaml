@@ -38,7 +38,7 @@ services:
     networks:
       - internal
     ports:
-      - 5050:5000
+      - 5000:5000
     links:
       - conductor-server
     stdin_open: true
